@@ -1,6 +1,6 @@
 # deprecated!
 
-this was used back then with c7-xilinx-install. both are superseded by my locall all-in-one XilinxCI image
+this was used back then with c7-xilinx-install. both are superseded by my local all-in-one XilinxCI image
 
 # c7-fpc
 
